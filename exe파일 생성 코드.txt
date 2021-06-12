@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-binary "C:\Users\negga\Desktop\driver\chromedriver.exe;." sele.py
